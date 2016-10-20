@@ -12,6 +12,7 @@
 
 ### __October 21, 2016__
 
+<br><br>
 
 ### __Table of Contents__
 
@@ -56,11 +57,15 @@
 #### __Appendix B: Analysis Models__
 #### __Appendix C: To Be Determined List__
 
+<br><br>
+
 ### __Revision History__
 | Name          | Date              | Reason For Changes  | Version |
 | ------------- |:-----------------:|:-------------------:| -------:|
 | Initial Draft | October 17, 2016  |                     | 0.1     |
 |               |                   |                     |         |
+
+<br><br>
 
 ### __1.   Introduction__
 #### __1.1   Purpose__
@@ -73,7 +78,9 @@
 
 #### __1.5   References__
 
-### __2.   Overall Description__ <br><br>
+<br>
+
+### __2.   Overall Description__ 
 #### __2.1   Product Perspective__
 
 #### __2.2   Product Functions__
