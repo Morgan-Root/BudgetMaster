@@ -25,27 +25,27 @@
   4. Product Scope
   5. References
 #### __2. Overall Description__
-   2.1 Product Perspective 
-   2.2 Product Functions
-   2.3 User Classes and Characteristics
-   2.4 Operating Environment
-   2.5 Design and Implementation Constraints
-   2.6 User Documentation
-   2.7 Assumptions and Dependencies
+  1. Product Perspective 
+  2. Product Functions
+  3. User Classes and Characteristics
+  4. Operating Environment
+  5. Design and Implementation Constraints
+  6. User Documentation
+  7. Assumptions and Dependencies
 #### __3. External Interface Requirements__
-   3.1 User Interfaces
-   3.2 Hardware Interfaces
-   3.3 Software Interfaces
-   3.4 Communications Interfaces
+  1. User Interfaces
+  2. Hardware Interfaces
+  3. Software Interfaces
+  4. Communications Interfaces
 #### __4. System Features__
-   4.1 Add Income
-   4.2 Add Expense
+  1. Add Income
+  2. Add Expense
 #### __5. Other Nonfunctional Requirements__
-   5.1 Performance Requirements
-   5.2 Safety Requirements
-   5.3 Security Requirements
-   5.4 Software Quality Attributes
-   5.5 Business Rules
+  1. Performance Requirements
+  2. Safety Requirements
+  3. Security Requirements
+  4. Software Quality Attributes
+  5. Business Rules
 #### __6. Other Requirements__
 #### __Appendix A: Glossary__
 #### __Appendix B: Analysis Models__
