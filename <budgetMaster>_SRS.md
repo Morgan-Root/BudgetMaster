@@ -113,4 +113,4 @@
 ### __4.   System Features__ 
 #### __4.1   Add Income__
 
-..4.1.1 User adds an amount that increases total spendable income - High Priority
+'''4.1.1 User adds an amount that increases total spendable income - High Priority
