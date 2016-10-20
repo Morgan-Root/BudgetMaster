@@ -69,15 +69,35 @@
 
 ### __1.   Introduction__
 #### __1.1   Purpose__
+  The product is a budgeting Android application that allows users to easily keep track of budgets and 
+    day-to-day spending. Users may enter their monthly income and divide it into smaller expense 
+    categories (e.g. entertainment, gas, groceries, etc.). The application will provide an 
+    intuitive user interface and goals/tips to encourage users to keep track of their spending.
+
 
 #### __1.2   Document Conventions__
+This document will be following all conventions required in the IEEE Std 830-1998. Boldface will represent the title of each section in this document. 
 
 #### __1.3   Intended Audience and Reading Suggestions__
+Readers that may benefit from this document include (but are not limited to):
+- Developers
+  - To better understand the goals, use cases, and specifications of this project
+- Project Managers
+  - To familiarize themselves with the requirements and scope of this project
+- Marketing Staff
+  - To examine features that may make this software system more profitable
+- Users/Testers
+  - To gain knowledge on all aspects of this software system that may be useful to a daily user
+- Document Writers
+  - To fully understand any feature that would otherwise be unclear based on code
 
 #### __1.4   Product Scope__
+BudgetMaster is an Android application that will be compatible on all versions past Android 5.0. BudgetMaster will allow its users to log all incomes and expenses and project the monthly available income on its main screen. BudgetMaster aims to be a frequently used application that encourages the management of finances on a daily basis. 
 
 #### __1.5   References__
-
+* [Material Design by Google](https://material.google.com/)
+* [SQL for Android](https://developer.android.com/reference/android/database/sqlite/SQLiteDatabase.html)
+* [Android API](https://developer.android.com/reference/packages.html)
 <br>
 
 ### __2.   Overall Description__ 
