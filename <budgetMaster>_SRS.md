@@ -98,6 +98,8 @@ BudgetMaster is an Android application that will be compatible on all versions p
 * [Material Design by Google](https://material.google.com/)
 * [SQL for Android](https://developer.android.com/reference/android/database/sqlite/SQLiteDatabase.html)
 * [Android API](https://developer.android.com/reference/packages.html)
+
+
 <br>
 
 ### __2.   Overall Description__ 
