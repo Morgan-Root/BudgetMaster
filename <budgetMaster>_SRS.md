@@ -122,13 +122,28 @@ The database and the mobile application will need to interact in order for the u
 
 #### __2.3   User Classes and Characteristics__
 
+The only user class in this system is the standard mobile application user. The user will need to input all of his expenses and incomes, and the application will store those in the database. All of the requirements will be pertinent to the mobile application user. 
+<br>
+A prerequisite for the users is first that they own a smartphone with an Android operating system. User classes will primarily target those with enough income and expenses that it would benefit to keep track of this information. For example, a college student would benefit from this app because most college-aged students have jobs and frequent expenses, and college students are also relatively new to managing their own expenses. Further, an adult with several bills and other expenses may want to keep track of this information as well.  
+
 #### __2.4   Operating Environment__
+
+The application will only be able to run on mobile phones. More specifically, this application will only run on Android mobile devices that are on version 5.0 (Lollipop) or higher. This application is stand alone, so no other software should interact with it. 
 
 #### __2.5   Design and Implementation Constraints__
 
+In wanting to make the database accessible at all times, the database is embedded in the system, so that no internet connection is needed in order to access it.  However, this creates a constraint that all data is stored on the mobile application, so if the user were to delete the app or lose their mobile device, all information on the database would be lost.  Future implementations may add a back-up feature to prevent the loss of data.
+
 #### __2.6   User Documentation__
 
+BudgetMaster strives to have an intuitive user-interface that should present itself in a way that any function will be visible to the user. By following the Material Design guidelines provided by Google, BudgetMaster should have a user-experience that any Android user should be familiar with.
+
 #### __2.7   Assumptions and Dependencies__
+
+This system makes the assumption that there is enough storage and space on the mobile device of the user to store all the information inputted into the database. If the mobile phone runs out of storage or memory, then the database may not be able to save and keep track information entered. 
+<br>
+This system also depends on the honesty of the user. There is no administrator to check and verify your incomes and expenses, so one could input various amounts into the system. In that case, the application would not succeed in its goal to help the user keep his or her budget. Further, a user may input an incorrect value that could cause incorrect estimations to a spendable income for the user.
+
 
 <br>
 
