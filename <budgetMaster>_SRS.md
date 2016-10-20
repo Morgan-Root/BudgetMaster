@@ -24,6 +24,7 @@
   3. Intended Audience and Reading Suggestions
   4. Product Scope
   5. References
+
 #### __2. Overall Description__
   1. Product Perspective 
   2. Product Functions
@@ -32,20 +33,24 @@
   5. Design and Implementation Constraints
   6. User Documentation
   7. Assumptions and Dependencies
+
 #### __3. External Interface Requirements__
   1. User Interfaces
   2. Hardware Interfaces
   3. Software Interfaces
   4. Communications Interfaces
+
 #### __4. System Features__
   1. Add Income
   2. Add Expense
+
 #### __5. Other Nonfunctional Requirements__
   1. Performance Requirements
   2. Safety Requirements
   3. Security Requirements
   4. Software Quality Attributes
   5. Business Rules
+
 #### __6. Other Requirements__
 #### __Appendix A: Glossary__
 #### __Appendix B: Analysis Models__
