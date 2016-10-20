@@ -114,9 +114,9 @@
 #### __4.1   Add Income__
 
     4.1.1 User adds an amount that increases total spendable income - High Priority
-<br>
+    
     4.1.2 Stimulus/Response Sequences
-<br> 
+
     4.1.3 Functional Requirements
     
 #### __4.2   Add Expense__
@@ -132,4 +132,21 @@
 
 #### __5.4   Software Quality Attributes__
     5.4.1 Maintainability and Extendability
+    
     5.4.2 Reliability 
+    
+    5.4.3 Usability
+    
+#### __5.5   Business Rules__ 
+
+<br>
+
+### __6.   Other Requirements__
+
+### __Appendix A: Glossary__
+
+### __Appendix B: Analysis Models__
+
+### __Appendix C: To Be Determined List__
+
+
