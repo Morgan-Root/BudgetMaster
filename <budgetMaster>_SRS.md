@@ -1,16 +1,22 @@
-# Software Requirements Specification
+# __Software Requirements Specification__
 
-### for
+### __for__
 
-# BudgetMaster
+# __BudgetMaster__
 
-#### Version 1.0 approved
+#### __Version 1.0 approved__
 
-### Prepared by Grant Hardy, Ross Thompson, Jason Williams, Adrian Colon, Chris Ross, Morgan Root
+### __Prepared by Grant Hardy, Ross Thompson, Jason Williams, Adrian Colon, Chris Ross, Morgan Root__
 
-### LSU
+### __LSU__
 
-### October 21, 2016
+### __October 21, 2016__
 
 
-### Table of Contents
+### __Table of Contents__
+
+#### __Table of Contents__
+#### __Revision History__
+
+#### __1. Introduction__
+1.1 Purpose
