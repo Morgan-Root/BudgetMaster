@@ -176,6 +176,12 @@ This system also depends on the honesty of the user. There is no administrator t
 ### __5.   Other Nonfunctional Requirements__ 
 #### __5.1   Performance Requirements__
 
+    5.1.1 Data Entry Performance
+      Rationale: The data put in by the user must be put in the system fast enough for the user to still use the system.
+      Description: When the user enters in his an income our expense, their budget should update within 2 seconds of confirming the           input.
+      Ref:
+
+<br>
 #### __5.2   Safety Requirements__
 
 #### __5.3   Security Requirements__
