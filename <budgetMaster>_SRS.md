@@ -57,3 +57,6 @@
 #### __Appendix C: To Be Determined List__
 
 ### __Revision History__
+| Name          | Date              | Reason For Changes      | Version |
+| Initial Draft | October 17, 2016  |                         | 0.1     |
+|               |                   |                         |         |
