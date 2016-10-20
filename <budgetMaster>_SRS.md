@@ -114,3 +114,22 @@
 #### __4.1   Add Income__
 
     4.1.1 User adds an amount that increases total spendable income - High Priority
+<br>
+    4.1.2 Stimulus/Response Sequences
+<br> 
+    4.1.3 Functional Requirements
+    
+#### __4.2   Add Expense__
+
+<br>
+
+### __5.   Other Nonfunctional Requirements__ 
+#### __5.1   Performance Requirements__
+
+#### __5.2   Safety Requirements__
+
+#### __5.3   Security Requirements__
+
+#### __5.4   Software Quality Attributes__
+    5.4.1 Maintainability and Extendability
+    5.4.2 Reliability 
