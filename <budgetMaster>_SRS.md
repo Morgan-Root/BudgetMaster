@@ -99,3 +99,18 @@
 
 
 ### __3.   External Interface Requirements__ 
+#### __3.1   User Interfaces__
+
+#### __3.2   Hardware Interfaces__
+
+#### __3.3   Software Interfaces__
+
+#### __3.4   Communications Interfaces__
+
+<br>
+
+
+### __4.   System Features__ 
+#### __4.1   Add Income__
+
+  4.1.1 User adds an amount that increases total spendable income - High Priority
