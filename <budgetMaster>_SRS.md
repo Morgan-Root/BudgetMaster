@@ -112,6 +112,14 @@ The database and the mobile application will need to interact in order for the u
 
 #### __2.2   Product Functions__
 
+- The mobile application will allow the users to create a pin number at the login screen.
+- The mobile application must let the users add and edit entries of money spent, along with selecting a category of what the purchase falls under.
+- The mobile application will allow the users to add different types of incomes to their budget.
+- The mobile application must let the users add different categories to their budget (e.g. food, gas, etc.)
+- The mobile application will allow users to allocate how much money they want to spend in a given month into their categories, and provide information throughout the month about how much money they have left to spend in each given category.
+- The mobile application will give the user tips and goals to complete that will help save money and stay under their budget.
+
+
 #### __2.3   User Classes and Characteristics__
 
 #### __2.4   Operating Environment__
